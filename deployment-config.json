@@ -1,0 +1,9 @@
+{
+    "type": "ftp",
+    "host": "waws-prod-hk1-023.ftp.azurewebsites.windows.net",
+    "username": "dgabriel",
+    "password": "qyZkmxs7wXKEHtNKihqE15Xsr1JNKBc8PtEga8jxBKetNlEGAuiYkEFH2PwE",
+    "port": 21,
+    "remotePath": "/site/wwwroot/app/",
+    "uploadOnSave": true
+}
