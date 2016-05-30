@@ -1,5 +1,5 @@
 # EASEtechDashboard
-Dashboard for Mobile 
+Dashboard for Mobile App
 
 
 
